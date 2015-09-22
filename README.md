@@ -11,6 +11,6 @@ This will create table structure to the database.
 php artisan db:seed
 It will seed data.
 
-6) {{url}}/translate?src_language=english&word=This&trans_language=urdu
+6) {{url}}/translate?src_language=english&word=This&trans_language=armenian
 This is the end point for translation.
 
